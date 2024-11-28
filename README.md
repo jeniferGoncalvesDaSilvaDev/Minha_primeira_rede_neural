@@ -1,1 +1,1 @@
-# Minha_primeira_rede_neural
+Minha primeira rede neural, usando o framework keras, para prever a chance de admissão em uma Universidade
